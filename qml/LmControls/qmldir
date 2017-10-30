@@ -1,0 +1,27 @@
+module LmControls
+LmDialog 1.0 LmDialog.qml
+LmApplicationWindow 1.0 LmApplicationWindow.qml
+LmConfirmDialog 1.0 LmConfirmDialog.qml
+LmConnectionDialog 1.0 LmConnectionDialog.qml
+LmInfoDialog 1.0 LmInfoDialog.qml
+LmButton 1.0 LmButton.qml
+LmDefaultButton 1.0 LmDefaultButton.qml
+LmConnectionStatusDialog 1.0 LmConnectionStatusDialog.qml
+LmRestartDialog 1.0 LmRestartDialog.qml
+LmMessageDialog 1.0 LmMessageDialog.qml
+LmImageButton 1.0 LmImageButton.qml
+LmComboBox 1.0 LmComboBox.qml
+LmTabView 1.0 LmTabView.qml
+LmBatteryLevel 1.0 LmBatteryLevel.qml
+LmSpinBox 1.0 LMSpinBox.qml
+LmInlineSpinBox 1.0 LmInlineSpinBox.qml
+LmCircleIndicater 1.0 CircleIndicater.qml
+LmIndicaterArea 1.0 Area.qml
+JSUtils 1.0 utils.js
+singleton LMConstants 1.0 LmConstants.qml
+
+
+
+
+
+

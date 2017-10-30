@@ -1,0 +1,9 @@
+/build-*
+/SolarCaculater
+/LTC24XXRP
+/DesignTest
+*.user
+TAGS
+/LMT_D
+.DS_Store
+*.qrc
